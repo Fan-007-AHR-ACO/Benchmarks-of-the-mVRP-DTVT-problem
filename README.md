@@ -1,7 +1,7 @@
 # Benchmarks-of-the-mVRP-DTVT-problem
 Benchmarks of the mVRP-DTVT problem
 
-The meaning of variables:
+The meaning of variables:<br> 
 Depot_x: position of the UAV base (x-coordinate);<br>
 Depot_y: position of the UAV base (y-coordinate);<br>
 UAV_num: number of the UAVs;<br>
@@ -16,7 +16,7 @@ Task_type: type of the tasks, with 0 for rescue tasks $rt$ and 1 for supervision
 Task_x: position of the tasks (x-coordinate);<br>
 Task_y: position of the tasks (y-coordinate);<br>
 STask_num: number of the supervision tasks;<br> 
-STask_type: type of vessel in the supervision tasks, with 0 for standard boat and 1 for speedboat;<br> 
+STask_type: type of unidentified vessel in the supervision tasks, with 0 for standard boat and 1 for speedboat;<br> 
 STask_nsb: number of speedboats;<br> 
 STask_dmd: task demands of the supervision tasks;<br> 
 STask_velx: velocity of unidentified vessel (x-axis component);<br> 
