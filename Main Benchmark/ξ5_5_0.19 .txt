@@ -1,0 +1,25 @@
+Depot_x [km] 	 25.0
+Depot_y [km] 	 25.0
+UAV_num [  ] 	 5
+UAV_type [  ] 	 0  0  0  0  1
+FUAV_num [  ] 	 1
+RUAV_num [  ] 	 4
+UAV_spd [km/h] 	 150.0  150.0  150.0  150.0  200.0
+UAV_abi4st [  ] 	 0.098133  0.10726  0.094117  0.11181  0.20119
+UAV_abi4rt [  ] 	 0.060916  0.049318  0.05057  0.049016  0.018335
+
+
+Task_num [  ] 	 5
+Task_type [  ] 	 1  1  1  0  0
+Task_x [km] 	 30.0  15.0  29.0  15.0  30.0
+Task_y [km] 	 30.0  20.0  29.0  15.0  10.0
+STask_num [  ] 	 3
+STask_type [  ] 	 1  1  0
+STask_nsb [  ] 	 2
+STask_dmd [  ] 	 20.2573  21.6312  10.7119
+STask_velx [knots] 	 -18.8599  22.3103  -11.5731
+STask_vely [knots] 	 -16.4105  11.2805  -9.54272
+STask_tr [km] 	 0.5  0.5  1
+RTask_num [  ] 	 2
+RTask_idmd [  ] 	 0.1  0.1
+RTask_rrt [  ] 	 0.03  0.11
