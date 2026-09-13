@@ -11,7 +11,7 @@ RUAV_num: number of rotary-wing rescue UAVs;<br>
 UAV_spd: cruising speed of UAVs;<br>
 UAV_abi4st: supervision capability of UAVs;<br>
 UAV_abi4rt: rescue capability of UAVs;<br>
-Task_num: number of the tasks;<br>
+Task_num: number of tasks;<br>
 Task_type: type of the tasks, with 0 for rescue tasks $rt$ and 1 for supervision tasks $st$;<br>
 Task_x: position of the tasks (x-coordinate);<br>
 Task_y: position of the tasks (y-coordinate);<br>
@@ -22,6 +22,6 @@ STask_dmd: task demands of the supervision tasks;<br>
 STask_velx: velocity of unidentified vessel (x-axis component);<br> 
 STask_vely: velocity of unidentified vessel (y-axis component);<br> 
 STask_tr: threat radius of the vessel in the supervision tasks;<br> 
-RTask_num: numver of rescue tasks;<br>
+RTask_num: number of rescue tasks;<br>
 RTask_idmd: initial demands of the rescue tasks;<br>
 RTask_rrt: inherent demand growth rate of the rescue tasks;<br>
