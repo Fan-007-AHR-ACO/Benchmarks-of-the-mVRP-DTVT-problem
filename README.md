@@ -4,7 +4,7 @@ Benchmarks of the mVRP-DTVT problem
 **The meaning of variables**:<br> 
 Depot_x: position of the UAV base (x-coordinate);<br>
 Depot_y: position of the UAV base (y-coordinate);<br>
-UAV_num: number of the UAVs;<br>
+UAV_num: number of UAVs;<br>
 UAV_type: type of the UAVs, with 0 for rotary-wing rescue UAV and 1 for fixed-wing supervision UAV;<br>
 FUAV_num: number of fixed-wing supervision UAVs;<br>
 RUAV_num: number of rotary-wing rescue UAVs;<br>
